@@ -1,0 +1,3 @@
+var gr = new GlideRecord('incident');
+gr.addQuery('priority = 1');
+gs.print(inc.number);
